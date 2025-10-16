@@ -1,6 +1,6 @@
 # awesome-angular-project
 
-English | [中文](README.md)
+English | [中文](README.zh-cn.md)
 
 It's a collection of awesome angular projects. You add recommend to me if you have amazing angular projects. Let's make angular better and better even in such an AI-dominant world.
 
